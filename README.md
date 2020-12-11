@@ -12,5 +12,5 @@ So what will we do in this practice?
 # Screenshot
 ![ScreenShot](https://github.com/php-cuong/magento2-invoice-attachment/blob/main/Screenshot/attachment.gif)
 
-# See the video How to add a product quick view feature in Magento 2.
+# See the video How to send an email with attachment in Magento 2.
 https://www.youtube.com/watch?v=2TojcPMVNzw&list=PL98CDCbI3TNvPczWSOnpaMoyxVISLVzYQ&index=70
